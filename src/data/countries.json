@@ -1,0 +1,392 @@
+[
+  {
+    "id": "004",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "population": 38928346,
+    "area": 652230,
+    "lat": 33.93911,
+    "lng": 67.709953
+  },
+  {
+    "id": "008",
+    "name": "Albania",
+    "capital": "Tirana",
+    "continent": "Europe",
+    "population": 2877797,
+    "area": 28748,
+    "lat": 41.153332,
+    "lng": 20.168331
+  },
+  {
+    "id": "012",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "population": 43851044,
+    "area": 2381741,
+    "lat": 28.033886,
+    "lng": 1.659626
+  },
+  {
+    "id": "024",
+    "name": "Angola",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "population": 32866272,
+    "area": 1246700,
+    "lat": -11.202692,
+    "lng": 17.873887
+  },
+  {
+    "id": "032",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "population": 45376763,
+    "area": 2780400,
+    "lat": -38.416097,
+    "lng": -63.616672
+  },
+  {
+    "id": "036",
+    "name": "Australia",
+    "capital": "Canberra",
+    "continent": "Oceania",
+    "population": 25687041,
+    "area": 7692024,
+    "lat": -25.274398,
+    "lng": 133.775136
+  },
+  {
+    "id": "040",
+    "name": "Austria",
+    "capital": "Vienna",
+    "continent": "Europe",
+    "population": 9006398,
+    "area": 83871,
+    "lat": 47.516231,
+    "lng": 14.550072
+  },
+  {
+    "id": "050",
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "population": 164689383,
+    "area": 147570,
+    "lat": 23.684994,
+    "lng": 90.356331
+  },
+  {
+    "id": "056",
+    "name": "Belgium",
+    "capital": "Brussels",
+    "continent": "Europe",
+    "population": 11589623,
+    "area": 30528,
+    "lat": 50.503887,
+    "lng": 4.469936
+  },
+  {
+    "id": "076",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "continent": "South America",
+    "population": 212559417,
+    "area": 8515767,
+    "lat": -14.235004,
+    "lng": -51.92528
+  },
+  {
+    "id": "124",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "continent": "North America",
+    "population": 38005238,
+    "area": 9984670,
+    "lat": 56.130366,
+    "lng": -106.346771
+  },
+  {
+    "id": "156",
+    "name": "China",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "population": 1439323776,
+    "area": 9596961,
+    "lat": 35.86166,
+    "lng": 104.195397
+  },
+  {
+    "id": "170",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "continent": "South America",
+    "population": 50882891,
+    "area": 1141748,
+    "lat": 4.570868,
+    "lng": -74.297333
+  },
+  {
+    "id": "180",
+    "name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "population": 89561403,
+    "area": 2344858,
+    "lat": -4.038333,
+    "lng": 21.758664
+  },
+  {
+    "id": "250",
+    "name": "France",
+    "capital": "Paris",
+    "continent": "Europe",
+    "population": 65273511,
+    "area": 551695,
+    "lat": 46.603354,
+    "lng": 1.888334
+  },
+  {
+    "id": "276",
+    "name": "Germany",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "population": 83783942,
+    "area": 357022,
+    "lat": 51.165691,
+    "lng": 10.451526
+  },
+  {
+    "id": "356",
+    "name": "India",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "population": 1380004385,
+    "area": 3287263,
+    "lat": 20.593684,
+    "lng": 78.96288
+  },
+  {
+    "id": "360",
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "population": 273523615,
+    "area": 1904569,
+    "lat": -0.789275,
+    "lng": 113.921327
+  },
+  {
+    "id": "392",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "population": 126476461,
+    "area": 377975,
+    "lat": 36.204824,
+    "lng": 138.252924
+  },
+  {
+    "id": "404",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "population": 53771296,
+    "area": 580367,
+    "lat": -0.023559,
+    "lng": 37.906193
+  },
+  {
+    "id": "484",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "continent": "North America",
+    "population": 128932753,
+    "area": 1964375,
+    "lat": 23.634501,
+    "lng": -102.552784
+  },
+  {
+    "id": "528",
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "population": 17134872,
+    "area": 41543,
+    "lat": 52.132633,
+    "lng": 5.291266
+  },
+  {
+    "id": "554",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "population": 4822233,
+    "area": 270467,
+    "lat": -40.900557,
+    "lng": 174.885971
+  },
+  {
+    "id": "566",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "population": 206139589,
+    "area": 923768,
+    "lat": 9.076479,
+    "lng": 7.398574
+  },
+  {
+    "id": "578",
+    "name": "Norway",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "population": 5421241,
+    "area": 323802,
+    "lat": 60.472024,
+    "lng": 8.468946
+  },
+  {
+    "id": "586",
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "continent": "Asia",
+    "population": 220892340,
+    "area": 881913,
+    "lat": 30.375321,
+    "lng": 69.345116
+  },
+  {
+    "id": "616",
+    "name": "Poland",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "population": 38386000,
+    "area": 312679,
+    "lat": 51.919438,
+    "lng": 19.145136
+  },
+  {
+    "id": "643",
+    "name": "Russia",
+    "capital": "Moscow",
+    "continent": "Europe",
+    "population": 145912025,
+    "area": 17098242,
+    "lat": 61.52401,
+    "lng": 105.318756
+  },
+  {
+    "id": "682",
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "population": 34813871,
+    "area": 2149690,
+    "lat": 23.885942,
+    "lng": 45.079162
+  },
+  {
+    "id": "710",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "continent": "Africa",
+    "population": 59308690,
+    "area": 1221037,
+    "lat": -30.559482,
+    "lng": 22.937506
+  },
+  {
+    "id": "724",
+    "name": "Spain",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "population": 46754778,
+    "area": 505992,
+    "lat": 40.463667,
+    "lng": -3.74922
+  },
+  {
+    "id": "752",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "population": 10099265,
+    "area": 450295,
+    "lat": 60.128161,
+    "lng": 18.643501
+  },
+  {
+    "id": "756",
+    "name": "Switzerland",
+    "capital": "Bern",
+    "continent": "Europe",
+    "population": 8654622,
+    "area": 41284,
+    "lat": 46.818188,
+    "lng": 8.227512
+  },
+  {
+    "id": "764",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "population": 69799978,
+    "area": 513120,
+    "lat": 15.870032,
+    "lng": 100.992541
+  },
+  {
+    "id": "792",
+    "name": "Turkey",
+    "capital": "Ankara",
+    "continent": "Asia",
+    "population": 84339067,
+    "area": 783562,
+    "lat": 38.963745,
+    "lng": 35.243322
+  },
+  {
+    "id": "804",
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "continent": "Europe",
+    "population": 43733762,
+    "area": 603500,
+    "lat": 48.379433,
+    "lng": 31.16558
+  },
+  {
+    "id": "826",
+    "name": "United Kingdom",
+    "capital": "London",
+    "continent": "Europe",
+    "population": 67886011,
+    "area": 242900,
+    "lat": 55.378051,
+    "lng": -3.435973
+  },
+  {
+    "id": "840",
+    "name": "United States",
+    "capital": "Washington D.C.",
+    "continent": "North America",
+    "population": 331002651,
+    "area": 9833517,
+    "lat": 37.09024,
+    "lng": -95.712891
+  },
+  {
+    "id": "858",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "population": 3473700,
+    "area": 181034,
+    "lat": -32.522779,
+    "lng": -55.765835
+  }
+]
