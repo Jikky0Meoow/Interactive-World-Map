@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom scrollbar for dark theme */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0a1a;
+}
+::-webkit-scrollbar-thumb {
+  background: #00f0ff40;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #00f0ff80;
+}
+
+/* Glassmorphism utility */
+.glass {
+  background: rgba(10, 10, 30, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 240, 255, 0.15);
+}
+
+.glass-strong {
+  background: rgba(10, 10, 30, 0.8);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(0, 240, 255, 0.3);
+}
+
+/* Neon glow animation */
+@keyframes glow-pulse {
+  0%, 100% { filter: drop-shadow(0 0 6px #00f0ff); }
+  50% { filter: drop-shadow(0 0 14px #b300ff); }
+}
+
+.animate-glow {
+  animation: glow-pulse 2s infinite;
+  }
